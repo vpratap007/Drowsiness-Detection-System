@@ -1,4 +1,4 @@
-Here's a sample `README.md` file for your drowsiness detection project using a CNN and ResNet50 model on images:
+
 
 ---
 
